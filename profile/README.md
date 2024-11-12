@@ -12,8 +12,11 @@ This is a repository for the prototype of digital twin system for Acute Myeloid 
 
 ### Team
 Institute for Systems Biology
+
 University of Helsinki
+
 Tampere University
+
 Fred Hutch Cancer Center
 
 ### Funding
